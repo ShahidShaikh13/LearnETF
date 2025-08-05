@@ -3,15 +3,15 @@
 A comprehensive full-stack application for learning about ETFs and stocks with AI-powered insights, interactive charts, and personalized educational content.
 
 
-<img width="1512" height="982" alt="Screenshot 2025-08-05 at 2 51 50 PM" src="https://github.com/user-attachments/assets/6d9d8e14-0fec-4d91-bc17-6e7d05877885" />
+<img width="1512" height="861" alt="Screenshot 2025-08-05 at 2 53 47 PM" src="https://github.com/user-attachments/assets/728eb472-21d7-477f-b737-31e6387ea392" />
 
 
-<img width="1512" height="982" alt="Screenshot 2025-08-05 at 2 52 28 PM" src="https://github.com/user-attachments/assets/b9b19000-c474-4adc-9262-ec21c403f72d" />
+<img width="1512" height="858" alt="Screenshot 2025-08-05 at 2 54 09 PM" src="https://github.com/user-attachments/assets/92ef0ceb-83ab-4ebb-8922-ac1c8c7da28b" />
 
 
 
+<img width="1512" height="861" alt="Screenshot 2025-08-05 at 2 54 32 PM" src="https://github.com/user-attachments/assets/0f2acd31-17b9-4ba4-9dab-079c8c835007" />
 
-<img width="1512" height="982" alt="Screenshot 2025-08-05 at 2 52 50 PM" src="https://github.com/user-attachments/assets/67d1b757-a3d6-400d-b5ae-30fbd87f8da1" />
 
 
 
