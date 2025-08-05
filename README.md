@@ -2,6 +2,12 @@
 
 A comprehensive full-stack application for learning about ETFs and stocks with AI-powered insights, interactive charts, and personalized educational content.
 
+
+<img width="1512" height="982" alt="Screenshot 2025-08-05 at 2 51 50 PM" src="https://github.com/user-attachments/assets/6d9d8e14-0fec-4d91-bc17-6e7d05877885" />
+
+
+
+
 ## 🚀 Key Features
 
 - **Stock & ETF Analysis**: Real-time data with candlestick charts and key metrics
