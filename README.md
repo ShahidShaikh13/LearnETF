@@ -6,6 +6,13 @@ A comprehensive full-stack application for learning about ETFs and stocks with A
 <img width="1512" height="982" alt="Screenshot 2025-08-05 at 2 51 50 PM" src="https://github.com/user-attachments/assets/6d9d8e14-0fec-4d91-bc17-6e7d05877885" />
 
 
+<img width="1512" height="982" alt="Screenshot 2025-08-05 at 2 52 28 PM" src="https://github.com/user-attachments/assets/b9b19000-c474-4adc-9262-ec21c403f72d" />
+
+
+
+
+<img width="1512" height="982" alt="Screenshot 2025-08-05 at 2 52 50 PM" src="https://github.com/user-attachments/assets/67d1b757-a3d6-400d-b5ae-30fbd87f8da1" />
+
 
 
 ## 🚀 Key Features
