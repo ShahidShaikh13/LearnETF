@@ -125,7 +125,7 @@ learnetf/
 ### Health Check
 - `GET /api/health` - Server health status
 
-## 🎯 Features in Detail
+##  Features in Detail
 
 ### 1. **Stock Dashboard**
 - Search any stock or ETF ticker
@@ -212,13 +212,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Plotly** for interactive charts
 - **TailwindCSS** for the beautiful UI framework
 
-## 📞 Support
+##  Support
 
 If you have any questions or need support, please open an issue on the repository.
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ for the investment community</p>
+  <p>Made with <3 for the investment community</p>
   <p>Empowering the next generation of investors</p>
 </div>
