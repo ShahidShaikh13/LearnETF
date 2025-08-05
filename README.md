@@ -15,7 +15,7 @@ A comprehensive full-stack application for learning about ETFs and stocks with A
 
 
 
-## 🚀 Key Features
+##  Key Features
 
 - **Stock & ETF Analysis**: Real-time data with candlestick charts and key metrics
 - **AI-Powered Insights**: GPT-4 integration for personalized explanations
@@ -24,7 +24,7 @@ A comprehensive full-stack application for learning about ETFs and stocks with A
 - **Modern UI**: Responsive design with dark mode support
 - **Real-time Charts**: Plotly-powered candlestick charts with metrics
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 - **Flask** - Python web framework
@@ -41,7 +41,7 @@ A comprehensive full-stack application for learning about ETFs and stocks with A
 - **Plotly.js** - Interactive charts
 - **Lucide React** - Icons
 
-## 📦 Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.8+
@@ -161,7 +161,7 @@ learnetf/
 - Immediate feedback and explanations
 - Score tracking and performance analysis
 
-## 🚀 Deployment
+##  Deployment
 
 ### Backend (Render)
 1. Connect your repository to Render
@@ -177,7 +177,7 @@ learnetf/
 3. Set output directory: `build`
 4. Deploy automatically on push to main branch
 
-## 🔒 Environment Variables
+##  Environment Variables
 
 Create a `.env` file in the server directory:
 
@@ -193,7 +193,7 @@ FLASK_DEBUG=True
 PORT=5001
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -205,7 +205,7 @@ PORT=5001
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **OpenAI** for providing the GPT-4 API
 - **Yahoo Finance** for market data
